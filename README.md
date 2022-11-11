@@ -85,7 +85,3 @@ module.exports = {
     <img src='https://cdn.jsdelivr.net/gh/youus/sponsors/sponsors.svg'/>
   </a>
 </p>
-
-## License
-
-MIT License © 2021-PRESENT [三咲智子](https://github.com/youus)
